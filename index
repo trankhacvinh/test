@@ -6,9 +6,37 @@
 	<meta name="author" content="" />
 	<meta name="viewport" content="user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0, width=device-width" />
 	<title></title>
-	<link href="css/style.css" rel="stylesheet" />
+	<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-8NPC4QJRWQ"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-8NPC4QJRWQ');
+</script>
 </head>
 <body>
+<style> #M789379ScriptRootC1509403 { min-height: 300px; }</style>
+<!-- Composite Start -->
+    <div id="M789379ScriptRootC1509403">
+    </div>
+    <script src="https://jsc.adskeeper.com/m/u/mujermala.xyz.1509403.js" async>
+    </script>
+<!-- Composite End -->
+
+<!-- Composite Start -->
+<div id="M789379ScriptRootC1509404">
+</div>
+<script src="https://jsc.adskeeper.com/m/u/mujermala.xyz.1509404.js" async>
+</script>
+<!-- Composite End -->
+<!-- Composite Start -->
+<div id="M789379ScriptRootC1509404">
+</div>
+<script src="https://jsc.adskeeper.com/m/u/mujermala.xyz.1509404.js" async>
+</script>
+<!-- Composite End -->
 
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js"></script>
 </body>
